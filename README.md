@@ -1,4 +1,4 @@
-<h1> Update a file through a Python algorithm </h1>
+<h1> Updating a file through a Python algorithm </h1>
 
 <h2>Description</h2>
 My organization controls access to restricted content with an allowed list of IP addresses. The "allow_list.txt" file identifies these IP addresses. A separate remove list identifies IP addresses that should no longer have access to this content. I created an algorithm to automate updating the "allow_list.txt" file and remove these IP addresses that should no longer have access.
